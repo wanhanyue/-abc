@@ -5,9 +5,6 @@ const anagram = require('./lib/anagram')
 
 
 console.log(anagram("abcd"))
-const 
 
-isLeapYear= require('./lib/
-
-isLeapYear')
+const anagram = require('./lib/is')
 
